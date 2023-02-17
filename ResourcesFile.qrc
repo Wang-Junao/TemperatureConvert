@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>About.png</file>
+        <file>Clear.png</file>
+        <file>Convert.png</file>
+        <file>Exit.png</file>
+        <file>Exlpain.png</file>
+        <file>Temp.png</file>
+        <file>Log.png</file>
+    </qresource>
+</RCC>
